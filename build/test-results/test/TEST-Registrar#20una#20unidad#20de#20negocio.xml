@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Registrar una unidad de negocio" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-06T21:08:19" hostname="CHMEPPF0I6LKM" time="31.499">
+  <properties/>
+  <testcase name="Registrar una unidad de negocio" classname="Registrar una unidad de negocio" time="31.499"/>
+  <system-out><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></system-out>
+  <system-err><![CDATA[abr 06, 2020 4:08:20 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 80.0.3987.106 (f68069574609230cf9b635cd784cfb1bf81bb53a-refs/branch-heads/3987@{#882}) on port 18371
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+abr 06, 2020 4:08:28 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[1586207310.326][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207310.427][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207310.530][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207310.631][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207310.734][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207310.836][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207310.939][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207311.040][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207311.141][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207311.275][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207311.377][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207311.480][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207311.593][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207311.696][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207311.889][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207312.273][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207312.413][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207312.514][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207312.621][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207317.651][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207317.792][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207317.895][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207317.997][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207318.200][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207319.497][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207319.671][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207321.384][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207325.085][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207325.227][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207325.328][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207325.430][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207325.531][SEVERE]: Timed out receiving message from renderer: 0.100
+[1586207325.751][SEVERE]: Timed out receiving message from renderer: 0.100
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Registrar una unidad de negocio
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
